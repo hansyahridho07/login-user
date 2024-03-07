@@ -18,6 +18,7 @@ Here're some of the project's best features:
 *   Update status user
 *   Check Authorization
 *   Check Authentication
+*   Send to email link for verification
 
 <h2>🛠️ Installation Steps:</h2>
 
