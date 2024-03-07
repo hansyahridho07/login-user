@@ -16,6 +16,8 @@ Here're some of the project's best features:
 *   Change Password
 *   Update data user
 *   Update status user
+*   Check Authorization
+*   Check Authentication
 
 <h2>🛠️ Installation Steps:</h2>
 
